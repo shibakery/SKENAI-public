@@ -8,13 +8,13 @@ Welcome to the public proposals repository for SKENAI - where DeFi meets Racing.
 
 | SIP | Title | Status | Design Theme |
 |-----|--------|--------|--------------|
-| [SIP-000](./000_genesis_whitelist.md) | Genesis - The Infinite Game Begins | Proposed | Light Blue/Navy/Red - Modern M Sport |
-| [SIP-001](./001_sbx_genesis_distribution.md) | The Genesis Fractal | Proposed | White/Blue/Red - Classic M Stripes |
-| [SIP-002](./002_sbx_tokenomics.md) | The Fractal Symphony | Proposed | Black/Gold/Red - M Performance |
-| [SIP-003](./003_options_trading_integration.md) | The Options Symphony | Proposed | Silver/Blue/Red - DTM Heritage |
-| [SIP-004](./004_compendium_chronicles.md) | The Chronicles Compendium | Proposed | Frozen Grey/Red - M Competition |
-| [SIP-005](./005_infinite_archive.md) | The Infinite Archive | Proposed | Alpine White/M Stripes - Motorsport Heritage |
-| [SIP-006](./006_racing_legends.md) | Racing Legends | Proposed | Metallic Blue/Red/Purple - Future M Vision |
+| [SIP-000](./proposals/000_genesis_whitelist.md) | Genesis - The Infinite Game Begins | Proposed | Light Blue/Navy/Red - Modern M Sport |
+| [SIP-001](./proposals/001_sbx_genesis_distribution.md) | The Genesis Fractal | Proposed | White/Blue/Red - Classic M Stripes |
+| [SIP-002](./proposals/002_sbx_tokenomics.md) | The Fractal Symphony | Proposed | Black/Gold/Red - M Performance |
+| [SIP-003](./proposals/003_options_trading_integration.md) | The Options Symphony | Proposed | Silver/Blue/Red - DTM Heritage |
+| [SIP-004](./proposals/004_compendium_chronicles.md) | The Chronicles Compendium | Proposed | Frozen Grey/Red - M Competition |
+| [SIP-005](./proposals/005_infinite_archive.md) | The Infinite Archive | Proposed | Alpine White/M Stripes - Motorsport Heritage |
+| [SIP-006](./proposals/006_racing_legends.md) | Racing Legends | Proposed | Metallic Blue/Red/Purple - Future M Vision |
 
 ## 🏆 Community Rewards
 
